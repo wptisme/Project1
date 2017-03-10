@@ -8,6 +8,7 @@ Project 1 Repository
 1. This is the first ordered item
 1. This is the second ordered item
 1. This is the third ordered item
+
 * Unordered Item 1
 * Unordered Item 2
 * Unordered Item 3
@@ -20,4 +21,5 @@ Project 1 Repository
 _This text is italic_
 
 **Here is my image!**
+
 ![Github Image](/images/git.png)
