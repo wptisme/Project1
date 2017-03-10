@@ -22,4 +22,5 @@ Project 1 Repository
 _This text is italic_
 _This text is italic too..._
 
-
+**Here is my image!**
+![Github Image](/images/git.png)
